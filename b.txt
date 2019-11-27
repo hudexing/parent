@@ -2,19 +2,4 @@ sub1
 我是独立的子工程，我是第一次修改，我在第二行。
 我是独立子工程，我是第二次正式修改，我在第三行。
 我是独立子工程，第三次修改，在第四行。hell
-wold
-heloo
-good
 
-
-  subtree+son+test+test1
-
-
-
-  sdfds645
-
-  poihjji
-  
-  ijkldfp
-
-  896868
