@@ -6,16 +6,6 @@ sub1
 
 
 我是独立子工程，第三次修改，在第四行。hell
-wold
-heloo
-good
 
 
-  subtree+son+test+test1
-
-<<<<<<< HEAD
-=======
-
-
-  sdfds645
->>>>>>> eee13d44b9b651da2004737a0334b36fe355367f
+我是从父工程parent中的subtree子模块中来到！
