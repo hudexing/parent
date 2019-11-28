@@ -8,10 +8,10 @@ good
 
 
   subtree+son+test+test1
-
-
-
   sdfds6
   poihjji
   
- :
+ 
+
+我是从父工程parent中的subtree子模块中来到！
+
