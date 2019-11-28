@@ -6,6 +6,12 @@ sub1
 
 
 我是独立子工程，第三次修改，在第四行。hell
+<<<<<<< HEAD
+your head
+
+
+
+我是从父工程parent中的subtree子模块中来到！
 
 
 我是从父工程parent中的subtree子模块中来到！
